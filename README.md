@@ -1,12 +1,14 @@
 # Scraping-Topic-Wise-Video-Details-on-YouTube-using-Selenium
-## TECHNOLOGIES USED:
-* Python
-* Selenium
-* Beautiful Soup
 
 
 ## GOAL:
 To create helping function to built dataset of video informations on perticular topic.
+
+
+## TECHNOLOGIES USED:
+* Python
+* Selenium
+* Beautiful Soup
 
 
 ## PROCESS:
